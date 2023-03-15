@@ -1,4 +1,18 @@
-![Bike Dashboard](src/bike_dashboard_screenshot.PNG)
-<img src="src/bike_dashboard_screenshot.PNG)" alt="Bike Dashboard" >
-<img src="https://github.com/Yvette-Ibarra/excel_dashboards_n_more/blob/main/src/bike_dashboard_screenshot.png?raw=true" height="60" width="60" >
-<img src="https://github.com/Yvette-Ibarra/excel_dashboards_n_more/blob/main/src/bike_dashboard_screenshot.png?raw=true" height="60" width="60" >
+# Projects with Excel
+# Description 
+This Repository was created to practice creating Data Science and Data Analytics projects using Excel.
+# Bike Data Goal
+To create an interactive dashboard contaning pivot tables, slicers and nested if statements.
+
+The Plan
+* Aquire data from Alex the Analyst github
+
+* Prepare data
+
+* Create dashboard
+
+# Result 
+-The following is a snap shoot of the interactive dashboard
+
+The following image was created using data
+<img src="https://github.com/Yvette-Ibarra/excel_dashboards_n_more/blob/main/src/bike_dashboard_screenshot.png?raw=true" height="600" width="600" title="Bike dashboard">
