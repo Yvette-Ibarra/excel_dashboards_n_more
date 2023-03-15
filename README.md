@@ -14,5 +14,4 @@ The Plan
 # Result 
 -The following is a snap shoot of the interactive dashboard
 
-The following image was created using data
-<img src="https://github.com/Yvette-Ibarra/excel_dashboards_n_more/blob/main/src/bike_dashboard_screenshot.png?raw=true" height="600" width="600" title="Bike dashboard">
+<img src="https://github.com/Yvette-Ibarra/excel_dashboards_n_more/blob/main/src/bike_dashboard_screenshot.png?raw=true" height="600" width="800" title="Bike dashboard">
