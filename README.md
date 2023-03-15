@@ -12,6 +12,6 @@ The Plan
 * Create dashboard
 
 # Result 
--The following is a snap shoot of the interactive dashboard
+-The following is a snapshot of the interactive dashboard
 
 <img src="https://github.com/Yvette-Ibarra/excel_dashboards_n_more/blob/main/src/bike_dashboard_screenshot.png?raw=true" height="600" width="800" title="Bike dashboard">
